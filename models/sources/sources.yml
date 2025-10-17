@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw
+    database: retail_db
+    schema: raw
+    tables:
+      - name: online_retail_raw
